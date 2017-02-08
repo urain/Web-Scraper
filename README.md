@@ -1,2 +1,2 @@
 # Web-Scraper
-Python script to automate the information gathering tool Scraper in Kali linux.
+Python script to automate the information gathering tool TheHarvester in Kali linux.
