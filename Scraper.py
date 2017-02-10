@@ -5,7 +5,7 @@ mystr = "wcrs.com,southjordan-sugarhousestorage.com"
 mylist = mystr.split(",")
 
 cumulation = []
-https://goo.gl/H38uhb
+
 for i in mylist:
 	os.system("theharvester -d %s -l 500 -b google -f out.html"%(i))
 
